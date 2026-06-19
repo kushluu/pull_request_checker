@@ -10,7 +10,7 @@ class usermanager:
         self.users = DATABASE
 
     def AddUser(self,name,email,password):
-        print("Adding user:", name)
+        print("Adding user:", e)
 
         
         for u in self.users:
