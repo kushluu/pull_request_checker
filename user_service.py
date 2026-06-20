@@ -7,7 +7,7 @@ cache = {}
 
 class usermanager:
     def __init__(self):
-        self.users = DATABASE
+        self.users = DATABASEfdsf
 
     def AddUser(self,name,email,password):
         print("Adding user:", name)
