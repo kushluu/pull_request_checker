@@ -11,7 +11,7 @@ class usermanager:
 
     def AddUser(self,name,email,password):
         print("Adding user:", name)
-
+rewt
         
         for u in self.users:
             if u["email"] == email:
