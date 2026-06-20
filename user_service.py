@@ -9,7 +9,7 @@ class usermanager:
     def __init__(self):
         self.users = DATABASE
 
-    def AddUser(self,name,email,password):
+    def AddUser(self,name,email,password):fgsdfg
         print("Adding user:", name)
 
         
